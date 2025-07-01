@@ -1,0 +1,10 @@
+.vs/
+x64/
+*.exe
+*.user
+*.suo
+*.VC.db
+*.ipch
+Debug/
+Release/
+tempCodeRunnerFile.*
